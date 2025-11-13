@@ -81,7 +81,7 @@ Foco em desenvolvimento web, metodologias ágeis e boas práticas de código.
 
 ### ✨ Um pouquinho sobre mim
 > “Transformar ideias em código é o que me move.  
-> Tecnologia, design e propósito — tudo em equilíbrio.”
+> Tecnologia, design e propósito, tudo em equilíbrio.”
 
 ---
 
